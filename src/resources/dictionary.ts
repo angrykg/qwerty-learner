@@ -4012,7 +4012,16 @@ export const dictionaryResources: DictionaryResource[] = [
   //   language: 'ja',
   // },
 ]
-
+  {
+    "id": "Newwaiyan7-2",
+    "name": "Newwaiyan7-2",
+    "description": "新外研七年级下册",
+    "category": "英语学习",
+    "url": "/dicts/Newwaiyan7-2.json",
+    "length": 2542,
+    "language": "en",
+  },
+]
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({
   ...resource,
   chapterCount: calcChapterCount(resource.length),
