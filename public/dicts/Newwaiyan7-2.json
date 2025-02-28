@@ -1,5 +1,529 @@
 [
     {
+        "name": "review",
+        "trans": [
+            "书评"
+        ],
+        "usphone": "/rɪˈvjuː/",
+        "ukphone": "/rɪˈvjuː/"
+    },
+    {
+        "name": "chocolate",
+        "trans": [
+            "巧克力，朱古力"
+        ],
+        "usphone": "/ˈʧɒklət/",
+        "ukphone": "/ˈʧɒklət/"
+    },
+    {
+        "name": "factory",
+        "trans": [
+            "工厂，制造厂"
+        ],
+        "usphone": "/ˈfæktəri/",
+        "ukphone": "/ˈfæktəri/"
+    },
+    {
+        "name": "exciting",
+        "trans": [
+            "令人兴奋的; 使人激动的; 刺激的"
+        ],
+        "usphone": "/ɪkˈsaɪtɪŋ/",
+        "ukphone": "/ɪkˈsaɪtɪŋ/"
+    },
+    {
+        "name": "most",
+        "trans": [
+            "最"
+        ],
+        "usphone": "/moʊst/",
+        "ukphone": "/moʊst/"
+    },
+    {
+        "name": "magical",
+        "trans": [
+            "奇异的，美妙的，迷人的"
+        ],
+        "usphone": "/ˈmædʒɪkəl/",
+        "ukphone": "/ˈmædʒɪkəl/"
+    },
+    {
+        "name": "part",
+        "trans": [
+            "部分"
+        ],
+        "usphone": "/pɑːrt/",
+        "ukphone": "/pɑːrt/"
+    },
+    {
+        "name": "side",
+        "trans": [
+            "边，面，侧"
+        ],
+        "usphone": "/saɪd/",
+        "ukphone": "/saɪd/"
+    },
+    {
+        "name": "town",
+        "trans": [
+            "镇，城镇，市镇"
+        ],
+        "usphone": "/taʊn/",
+        "ukphone": "/taʊn/"
+    },
+    {
+        "name": "poor",
+        "trans": [
+            "贫穷的，贫困的"
+        ],
+        "usphone": "/pʊr/",
+        "ukphone": "/pʊr/"
+    },
+    {
+        "name": "stay",
+        "trans": [
+            "停留"
+        ],
+        "usphone": "/steɪ/",
+        "ukphone": "/steɪ/"
+    },
+    {
+        "name": "only",
+        "trans": [
+            "唯一的，仅有的"
+        ],
+        "usphone": "/ˈoʊnli/",
+        "ukphone": "/ˈoʊnli/"
+    },
+    {
+        "name": "watery",
+        "trans": [
+            "(食物)稀薄的，含水太多的; (饮料)味淡的"
+        ],
+        "usphone": "/ˈwɔːtəri/",
+        "ukphone": "/ˈwɔːtəri/"
+    },
+    {
+        "name": "cabbage",
+        "trans": [
+            "卷心菜，洋白菜，甘蓝"
+        ],
+        "usphone": "/ˈkæbɪdʒ/",
+        "ukphone": "/ˈkæbɪdʒ/"
+    },
+    {
+        "name": "freezing",
+        "trans": [
+            "极冷的，严寒的"
+        ],
+        "usphone": "/ˈfriːzɪŋ/",
+        "ukphone": "/ˈfriːzɪŋ/"
+    },
+    {
+        "name": "forget",
+        "trans": [
+            "忘记，遗忘"
+        ],
+        "usphone": "/fərˈɡɛt/",
+        "ukphone": "/fərˈɡɛt/"
+    },
+    {
+        "name": "touch",
+        "trans": [
+            "感动，触动，打动"
+        ],
+        "usphone": "/tʌʧ/",
+        "ukphone": "/tʌʧ/"
+    },
+    {
+        "name": "once",
+        "trans": [
+            "曾经，过去"
+        ],
+        "usphone": "/wʌns/",
+        "ukphone": "/wʌns/"
+    },
+    {
+        "name": "sunless",
+        "trans": [
+            "无阳(日)光的"
+        ],
+        "usphone": "/ˈsʌnləs/",
+        "ukphone": "/ˈsʌnləs/"
+    },
+    },
+    {
+        "name": "choose",
+        "trans": [
+            "选择"
+        ],
+        "usphone": "/ʧuːz/",
+        "ukphone": "/ʧuːz/"
+    },
+    {
+        "name": "everything",
+        "trans": [
+            "每件事物; 所有事物"
+        ],
+        "usphone": "/ˈɛvrɪθɪŋ/",
+        "ukphone": "/ˈɛvrɪθɪŋ/"
+    },
+    {
+        "name": "rich",
+        "trans": [
+            "有钱的，富有的"
+        ],
+        "usphone": "/rɪʧ/",
+        "ukphone": "/rɪʧ/"
+    },
+    {
+        "name": "complete",
+        "trans": [
+            "完成"
+        ],
+        "usphone": "/kəmˈpliːt/",
+        "ukphone": "/kəmˈpliːt/"
+    },
+    {
+        "name": "expression",
+        "trans": [
+            "词组"
+        ],
+        "usphone": "/ɪkˈsprɛʃən/",
+        "ukphone": "/ɪkˈsprɛʃən/"
+    },
+    {
+        "name": "passage",
+        "trans": [
+            "一段，一节"
+        ],
+        "usphone": "/ˈpæsɪdʒ/",
+        "ukphone": "/ˈpæsɪdʒ/"
+    },
+    {
+        "name": "comment",
+        "trans": [
+            "意见，评论"
+        ],
+        "usphone": "/ˈkɒmɛnt/",
+        "ukphone": "/ˈkɒmɛnt/"
+    },
+    {
+        "name": "theme",
+        "trans": [
+            "主题"
+        ],
+        "usphone": "/θiːm/",
+        "ukphone": "/θiːm/"
+    },
+    {
+        "name": "description",
+        "trans": [
+            "描述, 描写，叙述，形容"
+        ],
+        "usphone": "/dɪˈskrɪpʃən/",
+        "ukphone": "/dɪˈskrɪpʃən/"
+    }
+    {
+        "name": "agree",
+        "trans": [
+            "同意，赞同"
+        ],
+        "usphone": "/əˈɡriː/",
+        "ukphone": "/əˈɡriː/"
+    },
+    {
+        "name": "understand",
+        "trans": [
+            "理解"
+        ],
+        "usphone": "/ˌʌndərˈstænd/",
+        "ukphone": "/ˌʌndərˈstænd/"
+    },
+    {
+        "name": "paragraph",
+        "trans": [
+            "(文章的)段，段落，节"
+        ],
+        "usphone": "/ˈpærəɡræf/",
+        "ukphone": "/ˈpærəɡræf/"
+    },
+    {
+        "name": "other",
+        "trans": [
+            "另外的人，其他的人"
+        ],
+        "usphone": "/ˈʌðər/",
+        "ukphone": "/ˈʌðər/"
+    },
+    {
+        "name": "relate",
+        "trans": [
+            "相联系，有关联"
+        ],
+        "usphone": "/rɪˈleɪt/",
+        "ukphone": "/rɪˈleɪt/"
+    },
+    {
+        "name": "experience",
+        "trans": [
+            "经验"
+        ],
+        "usphone": "/ɪkˈspɪəriəns/",
+        "ukphone": "/ɪkˈspɪəriəns/"
+    },
+    {
+        "name": "opinion",
+        "trans": [
+            "看法，观点"
+        ],
+        "usphone": "/əˈpɪnɪən/",
+        "ukphone": "/əˈpɪnɪən/"
+    },
+    {
+        "name": "topic",
+        "trans": [
+            "话题，论题"
+        ],
+        "usphone": "/ˈtɒpɪk/",
+        "ukphone": "/ˈtɒpɪk/"
+    },
+    {
+        "name": "grammar",
+        "trans": [
+            "语法"
+        ],
+        "usphone": "/ˈɡræmər/",
+        "ukphone": "/ˈɡræmər/"
+    },
+    {
+        "name": "rule",
+        "trans": [
+            "规则"
+        ],
+        "usphone": "/ruːl/",
+        "ukphone": "/ruːl/"
+    },
+    {
+        "name": "more",
+        "trans": [
+            "另外的，更多的"
+        ],
+        "usphone": "/mɔːr/",
+        "ukphone": "/mɔːr/"
+    },
+    {
+        "name": "correct",
+        "trans": [
+            "正确的"
+        ],
+        "usphone": "/kəˈrɛkt/",
+        "ukphone": "/kəˈrɛkt/"
+    },
+    {
+        "name": "form",
+        "trans": [
+            "形式"
+        ],
+        "usphone": "/fɔːrm/",
+        "ukphone": "/fɔːrm/"
+    },
+    {
+        "name": "chess",
+        "trans": [
+            "国际象棋"
+        ],
+        "usphone": "/ʧɛs/",
+        "ukphone": "/ʧɛs/"
+    },
+    {
+        "name": "trip",
+        "trans": [
+            "旅游; 旅行，出行"
+        ],
+        "usphone": "/trɪp/",
+        "ukphone": "/trɪp/"
+    },
+    {
+        "name": "post",
+        "trans": [
+            "帖子"
+        ],
+        "usphone": "/poʊst/",
+        "ukphone": "/poʊst/"
+    },
+    {
+        "name": "dragon",
+        "trans": [
+            "龙"
+        ],
+        "usphone": "/ˈdræɡən/",
+        "ukphone": "/ˈdræɡən/"
+    },
+    {
+        "name": "bath",
+        "trans": [
+            "给......洗澡"
+        ],
+        "usphone": "/bɑːθ/",
+        "ukphone": "/bɑːθ/"
+    },
+    {
+        "name": "decide",
+        "trans": [
+            "决定，决断，判断"
+        ],
+        "usphone": "/dɪˈsaɪd/",
+        "ukphone": "/dɪˈsaɪd/"
+    },
+    {
+        "name": "basket",
+        "trans": [
+            "篮子; 篓子; 筐子"
+        ],
+        "usphone": "/ˈbɑːskɪt/",
+        "ukphone": "/ˈbɑːskɪt/"
+    },
+    {
+        "name": "princess",
+        "trans": [
+            "公主"
+        ],
+        "usphone": "/ˈprɪnsɛs/",
+        "ukphone": "/ˈprɪnsɛs/"
+    },
+    {
+        "name": "example",
+        "trans": [
+            "例子"
+        ],
+        "usphone": "/ɪɡˈzæmpəl/",
+        "ukphone": "/ɪɡˈzæmpəl/"
+    },
+    {
+        "name": "believe",
+        "trans": [
+            "认为"
+        ],
+        "usphone": "/bɪˈliːv/",
+        "ukphone": "/bɪˈliːv/"
+    },
+   {
+       "name": "survey",
+       "trans": [
+           "调查",
+           "测量",
+           "概览"
+       ],
+       "usphone": "/sərˈveɪ/",
+       "ukphone": "/səˈveɪ/"
+    }
+    {
+        "name": "experiment",
+        "trans": [
+            "(科学)实验"
+        ],
+        "usphone": "/ɪkˈsperɪmənt/",
+        "ukphone": "/ɪkˈsperɪmənt/"
+    },
+    {
+        "name": "empty",
+        "trans": [
+            "空的"
+        ],
+        "usphone": "/ˈɛmpti/",
+        "ukphone": "/ˈɛmpti/"
+    },
+   {
+       "name": "presentation",
+       "trans": [
+           "报告"
+       ],
+       "usphone": "/ˌprezənˈteɪʃn/",
+       "ukphone": "/ˌprezənˈteɪʃn/"
+    }
+    {
+        "name": "positive",
+        "trans": [
+            "有信心的; 积极乐观的"
+        ],
+        "usphone": "/ˈpɒzɪtɪv/",
+        "ukphone": "/ˈpɒzɪtɪv/"
+    },
+    {
+        "name": "barber",
+        "trans": [
+            "(为男性剪发或刮脸的)男理发师"
+        ],
+        "usphone": "/ˈbɑːrbər/",
+        "ukphone": "/ˈbɑːrbər/"
+    },
+    {
+        "name": "fall",
+        "trans": [
+            "落下，降落，跌落"
+        ],
+        "usphone": "/fɔːl/",
+        "ukphone": "/fɔːl/"
+    },
+    {
+        "name": "shoulder",
+        "trans": [
+            "肩膀"
+        ],
+        "usphone": "/ˈʃoʊldər/",
+        "ukphone": "/ˈʃoʊldər/"
+    },
+    {
+        "name": "customer",
+        "trans": [
+            "顾客，客户"
+        ],
+        "usphone": "/ˈkʌstəmər/",
+        "ukphone": "/ˈkʌstəmər/"
+    },
+    {
+        "name": "surprised",
+        "trans": [
+            "吃惊的，惊奇的，惊讶的，诧异的"
+        ],
+        "usphone": "/sərˈpraɪzd/",
+        "ukphone": "/sərˈpraɪzd/"
+    }
+    {
+        "name": "scissors",
+        "trans": [
+            "剪刀; 剪子"
+        ],
+        "usphone": "/ˈsɪzərz/",
+        "ukphone": "/ˈsɪzərz/"
+    },
+    {
+        "name": "office",
+        "trans": [
+            "办公楼，办事处，公司"
+        ],
+        "usphone": "/ˈɔːfɪs/",
+        "ukphone": "/ˈɔːfɪs/"
+    },
+    {
+        "name": "receive",
+        "trans": [
+            "得到，收到"
+        ],
+        "usphone": "/rɪˈsiːv/",
+        "ukphone": "/rɪˈsiːv/"
+    },
+    {
+        "name": "cancer",
+        "trans": [
+            "癌(症)"
+        ],
+        "usphone": "/ˈkænsər/",
+        "ukphone": "/ˈkænsər/"
+    },
+    {
+        "name": "wig",
         "trans": [
             "假发"
         ],
@@ -253,7 +777,7 @@
         ],
         "usphone": "/læst bʌt nɒt liːst/",
         "ukphone": "/læst bʌt nɒt liːst/"
-    },
+    }
     {
         "name": "marathon",
         "trans": [
@@ -501,7 +1025,7 @@
         ],
         "usphone": "/kənˈtɪnjudʒə/",
         "ukphone": "/kənˈtɪnjudʒə/"
-    },
+    }
     {
         "name": "brave",
         "trans": [
@@ -885,7 +1409,7 @@
         ],
         "usphone": "/ˈsɜːrkəl/",
         "ukphone": "/ˈsɜːrkəl/"
-    },
+    }
     {
         "name": "slice",
         "trans": [
@@ -1133,7 +1657,7 @@
         ],
         "usphone": "/ˈmɒdərn/",
         "ukphone": "/ˈmɒdərn/"
-    },
+    }
     {
         "name": "folk",
         "trans": [
@@ -1245,7 +1769,7 @@
         ],
         "usphone": "/ˈhæpən/",
         "ukphone": "/ˈhæpən/"
-    },
+    }
     {
         "name": "dull",
         "trans": [
@@ -1477,7 +2001,7 @@
         ],
         "usphone": "/ˈdeɪli/",
         "ukphone": "/ˈdeɪli/"
-    },
+    }
     {
         "name": "daily life",
         "trans": [
@@ -1717,7 +2241,7 @@
         ],
         "usphone": "/aʊərz/",
         "ukphone": "/aʊərz/"
-    },
+    }
     {
         "name": "plateau",
         "trans": [
@@ -1949,7 +2473,7 @@
         ],
         "usphone": "/bɪˈheɪvjər/",
         "ukphone": "/bɪˈheɪvjə/"
-    },
+    }
     {
         "name": "land",
         "trans": [
@@ -2061,7 +2585,7 @@
         ],
         "usphone": "/ˈnæʃənl/",
         "ukphone": "/ˈnæʃənl/"
-    },
+    }
     {
         "name": "airport",
         "trans": [
@@ -2285,7 +2809,7 @@
         ],
         "usphone": "/ˈθʌndər/",
         "ukphone": "/ˈθʌndə/"
-    },
+    }
     {
         "name": "painting",
         "trans": [
