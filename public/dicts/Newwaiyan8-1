@@ -1,0 +1,1822 @@
+[
+    {
+        "name": "suppose",
+        "trans": ["假设,认为"],
+        "usphone": "/so'pouz/",
+        "ukphone": "/so'pouz/",
+        "type": "v."
+    },
+    {
+        "name": "birthmark",
+        "trans": ["胎记,胎痣"],
+        "usphone": "/b3:0ma:k/",
+        "ukphone": "/b3:0ma:k/",
+        "type": "n."
+    },
+    {
+        "name": "strawberry",
+        "trans": ["草莓"],
+        "usphone": "/'stro:bori/",
+        "ukphone": "/'stro:bori/",
+        "type": "n."
+    },
+    {
+        "name": "secretly",
+        "trans": ["暗自"],
+        "usphone": "/'si:krtli/",
+        "ukphone": "/'si:krtli/",
+        "type": "adv."
+    },
+    {
+        "name": "crowded",
+        "trans": ["挤满人(物)的;拥挤的"],
+        "usphone": "/kraudrd/",
+        "ukphone": "/kraudrd/",
+        "type": "adj."
+    },
+    {
+        "name": "disaster",
+        "trans": ["灾难,灾祸"],
+        "usphone": "/di'za:sta/",
+        "ukphone": "/di'za:sta/",
+        "type": "n."
+    },
+    {
+        "name": "therefore",
+        "trans": ["因此,由此,所以"],
+        "usphone": "/'oeafs:/",
+        "ukphone": "/'oeafs:/",
+        "type": "n."
+    },
+    {
+        "name": "instead",
+        "trans": ["代替……; 而不是··"],
+        "usphone": "/m'sted/",
+        "ukphone": "/m'sted/",
+        "type": "adv."
+    },
+    {
+        "name": "instead of",
+        "trans": ["代替……; 而不是··"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "phrase"
+    },
+    {
+        "name": "although",
+        "trans": ["虽然,尽管"],
+        "usphone": "/s:l'dau/",
+        "ukphone": "/s:l'dau/",
+        "type": "conj."
+    },
+    {
+        "name": "bathroom",
+        "trans": ["浴室,卫生间"],
+        "usphone": "/'ba:Orum/",
+        "ukphone": "/'ba:Orum/",
+        "type": "n."
+    },
+    {
+        "name": "truly",
+        "trans": ["真实地,确实地"],
+        "usphone": "/trucli/",
+        "ukphone": "/trucli/",
+        "type": "adv."
+    },
+    {
+        "name": "difference",
+        "trans": ["差别,差异"],
+        "usphone": "/'drfarans/",
+        "ukphone": "/'drfarans/",
+        "type": "n."
+    },
+    {
+        "name": "wise",
+        "trans": ["明智的,明断的"],
+        "usphone": "/waiz/",
+        "ukphone": "/waiz/",
+        "type": "adj."
+    },
+    {
+        "name": "present perfect tense",
+        "trans": ["现在完成式"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "grammar"
+    },
+    {
+        "name": "underline",
+        "trans": ["在……之下划线"],
+        "usphone": "/,Anda'lam/",
+        "ukphone": "/,Anda'lam/",
+        "type": "v."
+    },
+    {
+        "name": "row",
+        "trans": ["一排,一行,一列"],
+        "usphone": "/rau/",
+        "ukphone": "/rau/",
+        "type": "n."
+    },
+    {
+        "name": "reach",
+        "trans": ["伸;伸手(以触碰或提起某物)"],
+        "usphone": "/ritf/",
+        "ukphone": "/ritf/",
+        "type": "v."
+    },
+    {
+        "name": "height",
+        "trans": ["身高;高,高度"],
+        "usphone": "/hart/",
+        "ukphone": "/hart/",
+        "type": "n."
+    },
+    {
+        "name": "willing",
+        "trans": ["愿意(乐意)(做某事)的"],
+        "usphone": "/'wilm/",
+        "ukphone": "/'wilm/",
+        "type": "adj."
+    },
+    {
+        "name": "literature",
+        "trans": ["文学;文学作品"],
+        "usphone": "/'lrtaratfa/",
+        "ukphone": "/'lrtaratfa/",
+        "type": "n."
+    },
+    {
+        "name": "search",
+        "trans": ["寻找;搜寻"],
+        "usphone": "/s3:tf/",
+        "ukphone": "/s3:tf/",
+        "type": "n."
+    },
+    {
+        "name": "value",
+        "trans": ["价值"],
+        "usphone": "/'vaelju/",
+        "ukphone": "/'vaelju/",
+        "type": "n."
+    },
+    {
+        "name": "wizard",
+        "trans": ["男巫"],
+        "usphone": "/'wizad/",
+        "ukphone": "/'wizad/",
+        "type": "n."
+    },
+    {
+        "name": "friendship",
+        "trans": ["友谊"],
+        "usphone": "/frendfip/",
+        "ukphone": "/frendfip/",
+        "type": "n."
+    },
+    {
+        "name": "basic",
+        "trans": ["基础的,基本的"],
+        "usphone": "/'beisk/",
+        "ukphone": "/'beisk/",
+        "type": "adj."
+    },
+    {
+        "name": "message",
+        "trans": ["主题思想"],
+        "usphone": "/mesid3/",
+        "ukphone": "/mesid3/",
+        "type": "n."
+    },
+    {
+        "name": "setting",
+        "trans": ["(书、影片等中情节发生的)背景"],
+        "usphone": "/'setm/",
+        "ukphone": "/'setm/",
+        "type": "n."
+    },
+    {
+        "name": "realise",
+        "trans": ["知道,明白"],
+        "usphone": "/'ralaiz/",
+        "ukphone": "/'ralaiz/",
+        "type": "v."
+    },
+    {
+        "name": "impossible",
+        "trans": ["不可能发生的;办不到的"],
+        "usphone": "/rm'posabel/",
+        "ukphone": "/rm'posabel/",
+        "type": "adj."
+    },
+    {
+        "name": "nothing",
+        "trans": ["没有任何东西;没有事"],
+        "usphone": "/nx0m/",
+        "ukphone": "/nx0m/",
+        "type": "pron."
+    },
+    {
+        "name": "British",
+        "trans": ["英国的;英国人的"],
+        "usphone": "/brttf/",
+        "ukphone": "/brttf/",
+        "type": "adj."
+    },
+    {
+        "name": "silver",
+        "trans": ["银制的,银质的"],
+        "usphone": "/'stlval/",
+        "ukphone": "/'stlval/",
+        "type": "adj."
+    },
+    {
+        "name": "silver screen",
+        "trans": ["电影业(尤指好莱坞)"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "n."
+    },
+    {
+        "name": "doubt",
+        "trans": ["怀疑"],
+        "usphone": "/daut/",
+        "ukphone": "/daut/",
+        "type": "n."
+    },
+    {
+        "name": "fear",
+        "trans": ["害怕,恐惧;担忧"],
+        "usphone": "/fia/",
+        "ukphone": "/fia/",
+        "type": "n."
+    },
+    {
+        "name": "succeed",
+        "trans": ["成功,达成"],
+        "usphone": "/sak'si:d/",
+        "ukphone": "/sak'si:d/",
+        "type": "v."
+    },
+    {
+        "name": "excellent",
+        "trans": ["卓越的;极好的"],
+        "usphone": "/eksolant/",
+        "ukphone": "/eksolant/",
+        "type": "adj."
+    },
+    {
+        "name": "second",
+        "trans": ["b"],
+        "usphone": "/'sekand/",
+        "ukphone": "/'sekand/",
+        "type": "n."
+    },
+    {
+        "name": "satisfy",
+        "trans": ["使(某人)满意"],
+        "usphone": "/saetasfa/",
+        "ukphone": "/saetasfa/",
+        "type": "v."
+    },
+    {
+        "name": "risky",
+        "trans": ["有危险的,有风险的"],
+        "usphone": "/'nski/",
+        "ukphone": "/'nski/",
+        "type": "adj."
+    },
+    {
+        "name": "zero",
+        "trans": ["零"],
+        "usphone": "/'zierau/",
+        "ukphone": "/'zierau/",
+        "type": "num."
+    },
+    {
+        "name": "Olympics",
+        "trans": ["奥林匹克运动会,奥运会"],
+        "usphone": "/au'Immpuks/",
+        "ukphone": "/au'Immpuks/",
+        "type": "n."
+    },
+    {
+        "name": "athlete",
+        "trans": ["运动员;田径运动员"],
+        "usphone": "/'aeOli:t/",
+        "ukphone": "/'aeOli:t/",
+        "type": "n."
+    }
+    {
+        "name": "selfish",
+        "trans": ["自私的,自私自利的(含贬义)"],
+        "usphone": "/selfif/",
+        "ukphone": "/selfif/",
+        "type": "adj."
+    },
+    {
+        "name": "giant",
+        "trans": ["(儿童故事中的)巨人"],
+        "usphone": "/'d3arent/",
+        "ukphone": "/'d3arent/",
+        "type": "n."
+    },
+    {
+        "name": "shout",
+        "trans": ["大声说,喊叫,呼喊"],
+        "usphone": "/faut/",
+        "ukphone": "/faut/",
+        "type": "v."
+    },
+    {
+        "name": "gate",
+        "trans": ["(栅栏或围墙上的)大门"],
+        "usphone": "/gett/",
+        "ukphone": "/gett/",
+        "type": "n."
+    },
+    {
+        "name": "since",
+        "trans": ["自从……以来;自从之后"],
+        "usphone": "/sms/",
+        "ukphone": "/sms/",
+        "type": "prep."
+    },
+    {
+        "name": "nor",
+        "trans": ["也不"],
+        "usphone": "/no:/",
+        "ukphone": "/no:/",
+        "type": "conj."
+    },
+    {
+        "name": "hole",
+        "trans": ["洞,孔,坑"],
+        "usphone": "/haul/",
+        "ukphone": "/haul/",
+        "type": "n."
+    },
+    {
+        "name": "afraid",
+        "trans": ["害怕的,恐惧的"],
+        "usphone": "/a'frerd/",
+        "ukphone": "/a'frerd/",
+        "type": "adj."
+    },
+    {
+        "name": "adaptation",
+        "trans": ["(书或戏剧的)改编版"],
+        "usphone": "/aedaep'teifan/",
+        "ukphone": "/aedaep'teifan/",
+        "type": "n."
+    },
+    {
+        "name": "unhappiness",
+        "trans": ["不幸"],
+        "usphone": "/An'haepinas/",
+        "ukphone": "/An'haepinas/",
+        "type": "n."
+    },
+    {
+        "name": "climax",
+        "trans": ["高潮,顶点"],
+        "usphone": "/klaimaeks/",
+        "ukphone": "/klaimaeks/",
+        "type": "n."
+    },
+    {
+        "name": "return",
+        "trans": ["返回,回来,回去"],
+        "usphone": "/n't3:n/",
+        "ukphone": "/n't3:n/",
+        "type": "v."
+    },
+    {
+        "name": "lively",
+        "trans": ["充满活力的,生气勃勃的"],
+        "usphone": "/'larvli/",
+        "ukphone": "/'larvli/",
+        "type": "adj."
+    },
+    {
+        "name": "theirs",
+        "trans": ["他们的,她们的(用于指代属于前面所提之人的东西)"],
+        "usphone": "/oeaz/",
+        "ukphone": "/oeaz/",
+        "type": "pron."
+    },
+    {
+        "name": "grade",
+        "trans": ["年级"],
+        "usphone": "/greid/",
+        "ukphone": "/greid/",
+        "type": "n."
+    },
+    {
+        "name": "article",
+        "trans": ["(报刊的)文章,论文"],
+        "usphone": "/atrkol/",
+        "ukphone": "/atrkol/",
+        "type": "n."
+    },
+    {
+        "name": "priceless",
+        "trans": ["极其贵重的;无价的"],
+        "usphone": "/'prarsles/",
+        "ukphone": "/'prarsles/",
+        "type": "adj."
+    },
+    {
+        "name": "differently",
+        "trans": ["不同地"],
+        "usphone": "/Adrforontli/",
+        "ukphone": "/Adrforontli/",
+        "type": "adv."
+    },
+    {
+        "name": "recently",
+        "trans": ["最近,近来,不久前"],
+        "usphone": "/ri:sentli/",
+        "ukphone": "/ri:sentli/",
+        "type": "adv."
+    },
+    {
+        "name": "allow",
+        "trans": ["允许,容许,准许"],
+        "usphone": "/e'lau/",
+        "ukphone": "/e'lau/",
+        "type": "v."
+    },
+    {
+        "name": "attend",
+        "trans": ["参加,出席,到场"],
+        "usphone": "/a'tend/",
+        "ukphone": "/a'tend/",
+        "type": "v."
+    },
+    {
+        "name": "roller coaster",
+        "trans": ["过山车"],
+        "usphone": "/raula 'kausta/",
+        "ukphone": "/raula 'kausta/",
+        "type": "n."
+    },
+    {
+        "name": "whom",
+        "trans": ["谁,什么人"],
+        "usphone": "/hum/",
+        "ukphone": "/hum/",
+        "type": "pron."
+    },
+    {
+        "name": "cheerful",
+        "trans": ["高兴的"],
+        "usphone": "/tfrefal/",
+        "ukphone": "/tfrefal/",
+        "type": "adj."
+    },
+    {
+        "name": "uncertain",
+        "trans": ["不确定的,无把握的"],
+        "usphone": "/An'ss.tn/",
+        "ukphone": "/An'ss.tn/",
+        "type": "adj."
+    },
+    {
+        "name": "suggestion",
+        "trans": ["建议,提议"],
+        "usphone": "/ss'd3estfan/",
+        "ukphone": "/ss'd3estfan/",
+        "type": "n."
+    },
+    {
+        "name": "comfort",
+        "trans": ["安慰"],
+        "usphone": "/kAmfat/",
+        "ukphone": "/kAmfat/",
+        "type": "n."
+    },
+    {
+        "name": "skating",
+        "trans": ["滑冰,溜冰"],
+        "usphone": "/'skertn/",
+        "ukphone": "/'skertn/",
+        "type": "n."
+    },
+    {
+        "name": "narrow",
+        "trans": ["狭窄的"],
+        "usphone": "/naerau/",
+        "ukphone": "/naerau/",
+        "type": "adj."
+    },
+    {
+        "name": "lane",
+        "trans": ["……巷(常用于路名中)"],
+        "usphone": "/lem/",
+        "ukphone": "/lem/",
+        "type": "n."
+    },
+    {
+        "name": "unit",
+        "trans": ["(计量用的)单位"],
+        "usphone": "/junrt/",
+        "ukphone": "/junrt/",
+        "type": "n."
+    },
+    {
+        "name": "perhaps",
+        "trans": ["可能,大概,也许"],
+        "usphone": "/pe'haeps/",
+        "ukphone": "/pe'haeps/",
+        "type": "adv."
+    },
+    {
+        "name": "argue",
+        "trans": ["争论,争吵"],
+        "usphone": "/agju:/",
+        "ukphone": "/agju:/",
+        "type": "v."
+    },
+    {
+        "name": "divide",
+        "trans": ["(把……)分开"],
+        "usphone": "/da'vaid/",
+        "ukphone": "/da'vaid/",
+        "type": "v."
+    },
+    {
+        "name": "dividing line",
+        "trans": ["分界线,界限"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "n."
+    },
+    {
+        "name": "agreement",
+        "trans": ["(意见的)一致,相合"],
+        "usphone": "/a'grimant/",
+        "ukphone": "/a'grimant/",
+        "type": "n."
+    },
+    {
+        "name": "relative",
+        "trans": ["家人;亲戚"],
+        "usphone": "/'relatrv/",
+        "ukphone": "/'relatrv/",
+        "type": "n."
+    },
+    {
+        "name": "poem",
+        "trans": ["诗;韵文"],
+        "usphone": "/'paurm/",
+        "ukphone": "/'paurm/",
+        "type": "n."
+    },
+    {
+        "name": "inside",
+        "trans": ["在(容器或其他封闭的空间)里面;往里面"],
+        "usphone": "/m'sad/",
+        "ukphone": "/m'sad/",
+        "type": "adv."
+    },
+    {
+        "name": "neighbour",
+        "trans": ["邻居,邻人"],
+        "usphone": "/'neiba/",
+        "ukphone": "/'neiba/",
+        "type": "n."
+    },
+    {
+        "name": "drift",
+        "trans": ["随意移动,漂泊;摇摆不定;漫无目的地行动"],
+        "usphone": "/drf/",
+        "ukphone": "/drf/",
+        "type": "v."
+    },
+    {
+        "name": "ashamed",
+        "trans": ["(因自己所做的事而)羞耻的,内疚的,愧的"],
+        "usphone": "/a'fermd/",
+        "ukphone": "/a'fermd/",
+        "type": "adj."
+    },
+    {
+        "name": "deeply",
+        "trans": ["非常,很深地"],
+        "usphone": "/'dipli/",
+        "ukphone": "/'dipli/",
+        "type": "adv."
+    },
+    {
+        "name": "pass",
+        "trans": ["过去,流逝"],
+        "usphone": "/pa:s/",
+        "ukphone": "/pa:s/",
+        "type": "v."
+    },
+    {
+        "name": "whenever",
+        "trans": ["每当"],
+        "usphone": "/wen'eva/",
+        "ukphone": "/wen'eva/",
+        "type": "conj."
+    }
+    {
+        "name": "fair",
+        "trans": ["展览会"],
+        "usphone": "/fea/",
+        "ukphone": "/fea/",
+        "type": "n."
+    },
+    {
+        "name": "block",
+        "trans": ["一块(指木头、石头等有直边的硬物)"],
+        "usphone": "/blok/",
+        "ukphone": "/blok/",
+        "type": "n."
+    },
+    {
+        "name": "artificial",
+        "trans": ["人造的,人工的"],
+        "usphone": "/atr'fifal/",
+        "ukphone": "/atr'fifal/",
+        "type": "adj."
+    },
+    {
+        "name": "hook",
+        "trans": ["挂钧,吊钩"],
+        "usphone": "/huk/",
+        "ukphone": "/huk/",
+        "type": "n."
+    },
+    {
+        "name": "cost",
+        "trans": ["价格为,需支付(某一数量的钱)"],
+        "usphone": "/kost/",
+        "ukphone": "/kost/",
+        "type": "v."
+    },
+    {
+        "name": "lend",
+        "trans": ["帮助(某人)做事(尤指需要体力的事);(给某人)搭把手"],
+        "usphone": "/lend/",
+        "ukphone": "/lend/",
+        "type": "v."
+    },
+    {
+        "name": "3-D",
+        "trans": ["三维的,立体的( three-dimensional )"],
+        "usphone": "/,0ri:'diz/",
+        "ukphone": "/,0ri:'diz/",
+        "type": "adj."
+    },
+    {
+        "name": "printer",
+        "trans": ["(与计算机连接的)打印机"],
+        "usphone": "/prmta/",
+        "ukphone": "/prmta/",
+        "type": "n."
+    },
+    {
+        "name": "brain",
+        "trans": ["脑,大脑"],
+        "usphone": "/brem/",
+        "ukphone": "/brem/",
+        "type": "n."
+    },
+    {
+        "name": "signal",
+        "trans": ["信号;暗号"],
+        "usphone": "/'signal/",
+        "ukphone": "/'signal/",
+        "type": "n."
+    },
+    {
+        "name": "weigh",
+        "trans": ["重,重量是……"],
+        "usphone": "/wet/",
+        "ukphone": "/wet/",
+        "type": "v."
+    },
+    {
+        "name": "kilogram",
+        "trans": ["千克,公斤"],
+        "usphone": "/kilagraem/",
+        "ukphone": "/kilagraem/",
+        "type": "n."
+    },
+    {
+        "name": "fix",
+        "trans": ["解决(问题)"],
+        "usphone": "/fiks/",
+        "ukphone": "/fiks/",
+        "type": "v."
+    },
+    {
+        "name": "invention",
+        "trans": ["发明(物)(如机器、工具、仪器等)"],
+        "usphone": "/m'venfan/",
+        "ukphone": "/m'venfan/",
+        "type": "n."
+    },
+    {
+        "name": "download",
+        "trans": ["下载(信息或程序)"],
+        "usphone": "/,daun'laud/",
+        "ukphone": "/,daun'laud/",
+        "type": "v."
+    },
+    {
+        "name": "apply",
+        "trans": ["应用,运用"],
+        "usphone": "/a'plai/",
+        "ukphone": "/a'plai/",
+        "type": "v."
+    },
+    {
+        "name": "smart",
+        "trans": ["智能的"],
+        "usphone": "/sma:t/",
+        "ukphone": "/sma:t/",
+        "type": "adj."
+    },
+    {
+        "name": "machine",
+        "trans": ["机器"],
+        "usphone": "/ma'fin/",
+        "ukphone": "/ma'fin/",
+        "type": "n."
+    },
+    {
+        "name": "warn",
+        "trans": ["警告,告诫;提醒"],
+        "usphone": "/won/",
+        "ukphone": "/won/",
+        "type": "v."
+    },
+    {
+        "name": "congratulation",
+        "trans": ["恭喜,兄贺"],
+        "usphone": "/kan,graetfa'lerfan/",
+        "ukphone": "/kan,graetfa'lerfan/",
+        "type": "n."
+    },
+    {
+        "name": "advertisement",
+        "trans": ["广告;启事"],
+        "usphone": "/ad'vs:tasmant/",
+        "ukphone": "/ad'vs:tasmant/",
+        "type": "n."
+    },
+    {
+        "name": "everyday",
+        "trans": ["日常的;平常的;每天的"],
+        "usphone": "/evride/",
+        "ukphone": "/evride/",
+        "type": "adj."
+    },
+    {
+        "name": "trouble",
+        "trans": ["使忧虑,使苦恼"],
+        "usphone": "/'trAbol/",
+        "ukphone": "/'trAbol/",
+        "type": "v."
+    },
+    {
+        "name": "imaginative",
+        "trans": ["富有想象力的;创新的"],
+        "usphone": "/i'mad3anatrv/",
+        "ukphone": "/i'mad3anatrv/",
+        "type": "adj."
+    },
+    {
+        "name": "completely",
+        "trans": ["完全地"],
+        "usphone": "/kam'plitli/",
+        "ukphone": "/kam'plitli/",
+        "type": "adv."
+    },
+    {
+        "name": "penicillin",
+        "trans": ["青霉素,盘尼西林"],
+        "usphone": "/,peni'stln/",
+        "ukphone": "/,peni'stln/",
+        "type": "n."
+    },
+    {
+        "name": "unexpected",
+        "trans": ["想不到的"],
+        "usphone": "/,Anik'spcktid/",
+        "ukphone": "/,Anik'spcktid/",
+        "type": "adj."
+    },
+    {
+        "name": "ticket",
+        "trans": ["票,入场券"],
+        "usphone": "/tkit/",
+        "ukphone": "/tkit/",
+        "type": "n."
+    },
+    {
+        "name": "quality",
+        "trans": ["品性"],
+        "usphone": "/kwblati/",
+        "ukphone": "/kwblati/",
+        "type": "n."
+    },
+    {
+        "name": "widely",
+        "trans": ["广泛地"],
+        "usphone": "/wardli/",
+        "ukphone": "/wardli/",
+        "type": "adv."
+    },
+    {
+        "name": "glue",
+        "trans": ["胶,胶水"],
+        "usphone": "/glu/",
+        "ukphone": "/glu/",
+        "type": "n."
+    },
+    {
+        "name": "perfect",
+        "trans": ["完美的"],
+        "usphone": "/ps:fikt/",
+        "ukphone": "/ps:fikt/",
+        "type": "adj."
+    },
+    {
+        "name": "freeze",
+        "trans": ["(使)结冰,(使)冻结"],
+        "usphone": "/fri:z/",
+        "ukphone": "/fri:z/",
+        "type": "v."
+    },
+    {
+        "name": "ice lolly",
+        "trans": ["冰棍,冰棒"],
+        "usphone": "/lbli/",
+        "ukphone": "/lbli/",
+        "type": "n."
+    },
+    {
+        "name": "address",
+        "trans": ["对……发表演说"],
+        "usphone": "/s'dres/",
+        "ukphone": "/s'dres/",
+        "type": "v."
+    },
+    {
+        "name": "curiosity",
+        "trans": ["好奇心"],
+        "usphone": "/,kjuari'bsati/",
+        "ukphone": "/,kjuari'bsati/",
+        "type": "n."
+    },
+    {
+        "name": "talent",
+        "trans": ["天资,天赋,才能"],
+        "usphone": "/'taelant/",
+        "ukphone": "/'taelant/",
+        "type": "n."
+    },
+    {
+        "name": "passionately",
+        "trans": ["热情地,热烈地"],
+        "usphone": "/paefonatli/",
+        "ukphone": "/paefonatli/",
+        "type": "adv."
+    },
+    {
+        "name": "electricity",
+        "trans": ["电"],
+        "usphone": "/1,lek'trisoti/",
+        "ukphone": "/1,lek'trisoti/",
+        "type": "n."
+    },
+    {
+        "name": "experiment",
+        "trans": ["(科学)实验"],
+        "usphone": "/ik'speramant/",
+        "ukphone": "/ik'speramant/",
+        "type": "n."
+    },
+    {
+        "name": "lightning",
+        "trans": ["闪电"],
+        "usphone": "/lartnm/",
+        "ukphone": "/lartnm/",
+        "type": "n."
+    },
+    {
+        "name": "rod",
+        "trans": ["杆;竿;棒"],
+        "usphone": "/rod/",
+        "ukphone": "/rod/",
+        "type": "n."
+    },
+    {
+        "name": "lightning rod",
+        "trans": ["避雷针"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "n."
+    },
+    {
+        "name": "pioneer",
+        "trans": ["先驱,先锋,创始人"],
+        "usphone": "/,para'nra/",
+        "ukphone": "/,para'nra/",
+        "type": "n."
+    },
+    {
+        "name": "exploration",
+        "trans": ["探索;探险;勘探;勘查"],
+        "usphone": "/,eksplarerfan/",
+        "ukphone": "/,eksplarerfan/",
+        "type": "n."
+    },
+    {
+        "name": "test",
+        "trans": ["验证;检验"],
+        "usphone": "/test/",
+        "ukphone": "/test/",
+        "type": "v."
+    },
+    {
+        "name": "despite",
+        "trans": ["尽管,虽然,任凭"],
+        "usphone": "/dr'spart/",
+        "ukphone": "/dr'spart/",
+        "type": "prep."
+    },
+    {
+        "name": "failure",
+        "trans": ["失败"],
+        "usphone": "/'fenlja/",
+        "ukphone": "/'fenlja/",
+        "type": "n."
+    },
+    {
+        "name": "risk",
+        "trans": ["冒险举动"],
+        "usphone": "/nsk/",
+        "ukphone": "/nsk/",
+        "type": "n."
+    },
+    {
+        "name": "detector",
+        "trans": ["探测器,检测器"],
+        "usphone": "/dr'tekta/",
+        "ukphone": "/dr'tekta/",
+        "type": "n."
+    },
+    {
+        "name": "keyhole",
+        "trans": ["锁眼,钥匙孔"],
+        "usphone": "/ki:haul/",
+        "ukphone": "/ki:haul/",
+        "type": "n."
+    }
+    {
+        "name": "forever",
+        "trans": ["永远"],
+        "usphone": "/far'eva/",
+        "ukphone": "/far'eva/",
+        "type": "adv."
+    },
+    {
+        "name": "pound",
+        "trans": ["英镑"],
+        "usphone": "/paund/",
+        "ukphone": "/paund/",
+        "type": "n."
+    },
+    {
+        "name": "smartphone",
+        "trans": ["智能手机"],
+        "usphone": "/'sma.tfaun/",
+        "ukphone": "/'sma.tfaun/",
+        "type": "n."
+    },
+    {
+        "name": "code",
+        "trans": ["编码,编号,标记"],
+        "usphone": "/kaud/",
+        "ukphone": "/kaud/",
+        "type": "n."
+    },
+    {
+        "name": "wallet",
+        "trans": ["(装钞票等的)钱包,皮夹子"],
+        "usphone": "/wolrt/",
+        "ukphone": "/wolrt/",
+        "type": "n."
+    },
+    {
+        "name": "payment",
+        "trans": ["支付,付款"],
+        "usphone": "/perant/",
+        "ukphone": "/perant/",
+        "type": "n."
+    },
+    {
+        "name": "system",
+        "trans": ["系统"],
+        "usphone": "/'sistrm/",
+        "ukphone": "/'sistrm/",
+        "type": "n."
+    },
+    {
+        "name": "cash",
+        "trans": ["现款,现金"],
+        "usphone": "/keef/",
+        "ukphone": "/keef/",
+        "type": "n."
+    },
+    {
+        "name": "app",
+        "trans": ["应用程序,应用软件"],
+        "usphone": "/aep/",
+        "ukphone": "/aep/",
+        "type": "n."
+    },
+    {
+        "name": "delivery",
+        "trans": ["递送,交付;递送的物品"],
+        "usphone": "/dr'lrveri/",
+        "ukphone": "/dr'lrveri/",
+        "type": "n."
+    },
+    {
+        "name": "except",
+        "trans": ["除……之外"],
+        "usphone": "/k'scpt/",
+        "ukphone": "/k'scpt/",
+        "type": "prep."
+    },
+    {
+        "name": "convenient",
+        "trans": ["方便的,便利的;合宜的"],
+        "usphone": "/kan'vi:niont/",
+        "ukphone": "/kan'vi:niont/",
+        "type": "adj."
+    },
+    {
+        "name": "development",
+        "trans": ["进步,发展"],
+        "usphone": "/dr'velapmant/",
+        "ukphone": "/dr'velapmant/",
+        "type": "n."
+    },
+    {
+        "name": "mobile",
+        "trans": ["非固定的,移动式的"],
+        "usphone": "/maubail/",
+        "ukphone": "/maubail/",
+        "type": "adj."
+    },
+    {
+        "name": "anywhere",
+        "trans": ["任何地方,无论何处,随便哪里"],
+        "usphone": "/'eniwea/",
+        "ukphone": "/'eniwea/",
+        "type": "adv."
+    },
+    {
+        "name": "via",
+        "trans": ["通过"],
+        "usphone": "/'vare/",
+        "ukphone": "/'vare/",
+        "type": "prep."
+    },
+    {
+        "name": "progress",
+        "trans": ["进步,进展"],
+        "usphone": "/praugres/",
+        "ukphone": "/praugres/",
+        "type": "n."
+    },
+    {
+        "name": "offline",
+        "trans": ["未联网的,不在线的"],
+        "usphone": "/,pflam/",
+        "ukphone": "/,pflam/",
+        "type": "adj."
+    },
+    {
+        "name": "simply",
+        "trans": ["只是,仅仅"],
+        "usphone": "/stmpli/",
+        "ukphone": "/stmpli/",
+        "type": "adv."
+    },
+    {
+        "name": "advantage",
+        "trans": ["好处,优点"],
+        "usphone": "/ad'vantrd3/",
+        "ukphone": "/ad'vantrd3/",
+        "type": "n."
+    },
+    {
+        "name": "era",
+        "trans": ["时代,年代"],
+        "usphone": "/'lara/",
+        "ukphone": "/'lara/",
+        "type": "n."
+    },
+    {
+        "name": "native",
+        "trans": ["本地人;久居某地的人"],
+        "usphone": "/'nertrv/",
+        "ukphone": "/'nertrv/",
+        "type": "n."
+    },
+    {
+        "name": "generation",
+        "trans": ["一代(人)"],
+        "usphone": "/,d3ena'rerfan/",
+        "ukphone": "/,d3ena'rerfan/",
+        "type": "n."
+    },
+    {
+        "name": "attitude",
+        "trans": ["看法,态度"],
+        "usphone": "/aetrtjud/",
+        "ukphone": "/aetrtjud/",
+        "type": "n."
+    },
+    {
+        "name": "disagreement",
+        "trans": ["意见不合,分歧,争论"],
+        "usphone": "/,drso'grimant/",
+        "ukphone": "/,drso'grimant/",
+        "type": "n."
+    },
+    {
+        "name": "device",
+        "trans": ["设备,仪器"],
+        "usphone": "/dr'vais/",
+        "ukphone": "/dr'vais/",
+        "type": "n."
+    },
+    {
+        "name": "bored",
+        "trans": ["厌烦的,不感兴趣的"],
+        "usphone": "/bo:d/",
+        "ukphone": "/bo:d/",
+        "type": "adj."
+    },
+    {
+        "name": "campfire",
+        "trans": ["营火,篝火"],
+        "usphone": "/kaempfara/",
+        "ukphone": "/kaempfara/",
+        "type": "n."
+    },
+    {
+        "name": "wisely",
+        "trans": ["明智地"],
+        "usphone": "/wazli/",
+        "ukphone": "/wazli/",
+        "type": "adv."
+    },
+    {
+        "name": "function",
+        "trans": ["功能,作用"],
+        "usphone": "/fAnkfan/",
+        "ukphone": "/fAnkfan/",
+        "type": "n."
+    },
+    {
+        "name": "disadvantage",
+        "trans": ["缺点"],
+        "usphone": "/,disad'vantd3/",
+        "ukphone": "/,disad'vantd3/",
+        "type": "n."
+    },
+    {
+        "name": "throw",
+        "trans": ["投,扔,抛,掷"],
+        "usphone": "/0rau/",
+        "ukphone": "/0rau/",
+        "type": "v."
+    },
+    {
+        "name": "anyone",
+        "trans": ["有人,任何人"],
+        "usphone": "/eniwAn/",
+        "ukphone": "/eniwAn/",
+        "type": "pron."
+    },
+    {
+        "name": "bedroom",
+        "trans": ["卧室"],
+        "usphone": "/'bedrum/",
+        "ukphone": "/'bedrum/",
+        "type": "n."
+    },
+    {
+        "name": "neighbourhood",
+        "trans": ["社区,住宅小区;四邻,街坊"],
+        "usphone": "/'nerbohud/",
+        "ukphone": "/'nerbohud/",
+        "type": "n."
+    }
+    {
+        "name": "opposite",
+        "trans": ["在……的对面"],
+        "usphone": "/'bpazat/",
+        "ukphone": "/'bpazat/",
+        "type": "prep."
+    },
+    {
+        "name": "packet",
+        "trans": ["(装商品的)小包,小盒,小袋"],
+        "usphone": "/packI/",
+        "ukphone": "/packI/",
+        "type": "n."
+    },
+    {
+        "name": "picnic",
+        "trans": ["野餐"],
+        "usphone": "/piknik/",
+        "ukphone": "/piknik/",
+        "type": "n."
+    },
+    {
+        "name": "smelly",
+        "trans": ["有臭味的"],
+        "usphone": "/smcli/",
+        "ukphone": "/smcli/",
+        "type": "adj."
+    },
+    {
+        "name": "noise",
+        "trans": ["噪声;嘈杂声"],
+        "usphone": "/noiz/",
+        "ukphone": "/noiz/",
+        "type": "n."
+    },
+    {
+        "name": "reduce",
+        "trans": ["缩小;减少;降低"],
+        "usphone": "/n'dju:s/",
+        "ukphone": "/n'dju:s/",
+        "type": "v."
+    },
+    {
+        "name": "seat",
+        "trans": ["座,座位"],
+        "usphone": "/si:t/",
+        "ukphone": "/si:t/",
+        "type": "n."
+    },
+    {
+        "name": "passenger",
+        "trans": ["(车辆、飞机、船舶等的)乘客,旅客"],
+        "usphone": "/pasid3e/",
+        "ukphone": "/pasid3e/",
+        "type": "n."
+    },
+    {
+        "name": "fool",
+        "trans": ["蠢人,傻子,笨蛋"],
+        "usphone": "/fu:l/",
+        "ukphone": "/fu:l/",
+        "type": "n."
+    },
+    {
+        "name": "sign",
+        "trans": ["标记;指示牌,标牌"],
+        "usphone": "/sam/",
+        "ukphone": "/sam/",
+        "type": "n."
+    },
+    {
+        "name": "responsibility",
+        "trans": ["责任"],
+        "usphone": "/r,sponse'bilati/",
+        "ukphone": "/r,sponse'bilati/",
+        "type": "n."
+    },
+    {
+        "name": "belt",
+        "trans": ["腰带,皮带"],
+        "usphone": "/belt/",
+        "ukphone": "/belt/",
+        "type": "n."
+    },
+    {
+        "name": "seat belt",
+        "trans": ["(汽车或飞机上的)安全带"],
+        "usphone": "",
+        "ukphone": "",
+        "type": "n."
+    },
+    {
+        "name": "station",
+        "trans": ["车站"],
+        "usphone": "/'sterfan/",
+        "ukphone": "/'sterfan/",
+        "type": "n."
+    },
+    {
+        "name": "flowerpot",
+        "trans": ["花盆"],
+        "usphone": "/flauopot/",
+        "ukphone": "/flauopot/",
+        "type": "n."
+    },
+    {
+        "name": "honesty",
+        "trans": ["诚实,正直;坦诚"],
+        "usphone": "/bnasti/",
+        "ukphone": "/bnasti/",
+        "type": "n."
+    },
+    {
+        "name": "respect",
+        "trans": ["尊重"],
+        "usphone": "/n'spekt/",
+        "ukphone": "/n'spekt/",
+        "type": "v."
+    },
+    {
+        "name": "spread",
+        "trans": ["传播"],
+        "usphone": "/spred/",
+        "ukphone": "/spred/",
+        "type": "v."
+    },
+    {
+        "name": "society",
+        "trans": ["社会"],
+        "usphone": "/sa'sarati/",
+        "ukphone": "/sa'sarati/",
+        "type": "n."
+    },
+    {
+        "name": "clear",
+        "trans": ["清楚的,明确的"],
+        "usphone": "/klra/",
+        "ukphone": "/klra/",
+        "type": "adj."
+    },
+    {
+        "name": "flag",
+        "trans": ["旗,旗帜"],
+        "usphone": "/flag/",
+        "ukphone": "/flag/",
+        "type": "n."
+    },
+    {
+        "name": "slide",
+        "trans": ["(使)滑行,(使)滑动"],
+        "usphone": "/slad/",
+        "ukphone": "/slad/",
+        "type": "v."
+    },
+    {
+        "name": "case",
+        "trans": ["事例"],
+        "usphone": "/keis/",
+        "ukphone": "/keis/",
+        "type": "n."
+    },
+    {
+        "name": "urgent",
+        "trans": ["紧急的,急迫的"],
+        "usphone": "/'s:d3ant/",
+        "ukphone": "/'s:d3ant/",
+        "type": "adj."
+    },
+    {
+        "name": "guest",
+        "trans": ["嘉宾,宾客"],
+        "usphone": "/gest/",
+        "ukphone": "/gest/",
+        "type": "n."
+    },
+    {
+        "name": "experienced",
+        "trans": ["经验丰富的,有经验的"],
+        "usphone": "/ik'spiarianst/",
+        "ukphone": "/ik'spiarianst/",
+        "type": "adj."
+    },
+    {
+        "name": "lawyer",
+        "trans": ["律师"],
+        "usphone": "/'lo:ja/",
+        "ukphone": "/'lo:ja/",
+        "type": "n."
+    },
+    {
+        "name": "whether",
+        "trans": ["是否"],
+        "usphone": "/'weda/",
+        "ukphone": "/'weda/",
+        "type": "prep."
+    },
+    {
+        "name": "argument",
+        "trans": ["论点,论据"],
+        "usphone": "/'agjamant/",
+        "ukphone": "/'agjamant/",
+        "type": "n."
+    },
+    {
+        "name": "netizen",
+        "trans": ["网民"],
+        "usphone": "/'netizan/",
+        "ukphone": "/'netizan/",
+        "type": "n."
+    },
+    {
+        "name": "citizen",
+        "trans": ["市民,城镇居民;公民"],
+        "usphone": "/'sitizan/",
+        "ukphone": "/'sitizan/",
+        "type": "n."
+    },
+    {
+        "name": "click",
+        "trans": ["点击(鼠标)"],
+        "usphone": "/klk/",
+        "ukphone": "/klk/",
+        "type": "n."
+    },
+    {
+        "name": "private",
+        "trans": ["(感情、消息或意见)个人的,秘密的"],
+        "usphone": "/prarvat/",
+        "ukphone": "/prarvat/",
+        "type": "adj."
+    },
+    {
+        "name": "password",
+        "trans": ["(使用计算机系统或程序所用的)密码"],
+        "usphone": "/pa:swa:d/",
+        "ukphone": "/pa:swa:d/",
+        "type": "n."
+    },
+    {
+        "name": "careless",
+        "trans": ["不小心的,粗心的,疏忽的"],
+        "usphone": "/'kcalas/",
+        "ukphone": "/'kcalas/",
+        "type": "adj."
+    },
+    {
+        "name": "aware",
+        "trans": ["意识到的,明白的,知道的"],
+        "usphone": "/o'wea/",
+        "ukphone": "/o'wea/",
+        "type": "adj."
+    },
+    {
+        "name": "stranger",
+        "trans": ["陌生人"],
+        "usphone": "/'streind3a/",
+        "ukphone": "/'streind3a/",
+        "type": "n."
+    },
+    {
+        "name": "cheat",
+        "trans": ["欺诈,欺骗"],
+        "usphone": "/tfi:t/",
+        "ukphone": "/tfi:t/",
+        "type": "v."
+    },
+    {
+        "name": "enemy",
+        "trans": ["敌人"],
+        "usphone": "/'enami/",
+        "ukphone": "/'enami/",
+        "type": "n."
+    },
+    {
+        "name": "cyberbullying",
+        "trans": ["网络欺凌"],
+        "usphone": "/'sarba,bulin/",
+        "ukphone": "/'sarba,bulin/",
+        "type": "adj."
+    }
+    {
+        "name": "lost",
+        "trans": ["丢失的,遗失的"],
+        "usphone": "/lDst/",
+        "ukphone": "/lDst/",
+        "type": "adj."
+    },
+    {
+        "name": "scared",
+        "trans": ["害怕的,恐惧的"],
+        "usphone": "/skead/",
+        "ukphone": "/skead/",
+        "type": "adj."
+    },
+    {
+        "name": "shut",
+        "trans": ["(使)关(合)上,(使)关闭"],
+        "usphone": "/fAt/",
+        "ukphone": "/fAt/",
+        "type": "v."
+    },
+    {
+        "name": "coach",
+        "trans": ["公共马车,四轮大马车"],
+        "usphone": "/keutf/",
+        "ukphone": "/keutf/",
+        "type": "n."
+    },
+    {
+        "name": "shocking",
+        "trans": ["惊人的,骇人的,令人难以置信的"],
+        "usphone": "/fok/",
+        "ukphone": "/fok/",
+        "type": "adj."
+    },
+    {
+        "name": "straight",
+        "trans": ["笔直地,成直线地"],
+        "usphone": "/strert/",
+        "ukphone": "/strert/",
+        "type": "adv."
+    },
+    {
+        "name": "flood",
+        "trans": ["洪水,水灾"],
+        "usphone": "/flAd/",
+        "ukphone": "/flAd/",
+        "type": "n."
+    },
+    {
+        "name": "thick",
+        "trans": ["浓密的;混浊的"],
+        "usphone": "/0rk/",
+        "ukphone": "/0rk/",
+        "type": "adj."
+    },
+    {
+        "name": "smoke",
+        "trans": ["(燃烧产生的)烟"],
+        "usphone": "/smouk/",
+        "ukphone": "/smouk/",
+        "type": "n."
+    },
+    {
+        "name": "ash",
+        "trans": ["灰,灰烬"],
+        "usphone": "/af/",
+        "ukphone": "/af/",
+        "type": "n."
+    },
+    {
+        "name": "shower",
+        "trans": ["一大批,一阵(在空中洒落或出现的小而轻的东西)"],
+        "usphone": "/'Saus/",
+        "ukphone": "/'Saus/",
+        "type": "n."
+    },
+    {
+        "name": "erupt",
+        "trans": ["(火山)爆发,喷发"],
+        "usphone": "/irApt/",
+        "ukphone": "/irApt/",
+        "type": "v."
+    },
+    {
+        "name": "volcano",
+        "trans": ["火山"],
+        "usphone": "/vol'kemnau/",
+        "ukphone": "/vol'kemnau/",
+        "type": "n."
+    },
+    {
+        "name": "historical",
+        "trans": ["(有关)历史的"],
+        "usphone": "/hr'storikal/",
+        "ukphone": "/hr'storikal/",
+        "type": "adj."
+    },
+    {
+        "name": "hurricane",
+        "trans": ["飓风"],
+        "usphone": "/hArkan/",
+        "ukphone": "/hArkan/",
+        "type": "n."
+    },
+    {
+        "name": "airline",
+        "trans": ["航空公司"],
+        "usphone": "/'ealam/",
+        "ukphone": "/'ealam/",
+        "type": "n."
+    },
+    {
+        "name": "rainstorm",
+        "trans": ["暴风雨"],
+        "usphone": "/remsto:m/",
+        "ukphone": "/remsto:m/",
+        "type": "n."
+    },
+    {
+        "name": "service",
+        "trans": ["服务"],
+        "usphone": "/'ss:vIs/",
+        "ukphone": "/'ss:vIs/",
+        "type": "n."
+    },
+    {
+        "name": "motherland",
+        "trans": ["祖国"],
+        "usphone": "/'mAdolaend/",
+        "ukphone": "/'mAdolaend/",
+        "type": "n."
+    },
+    {
+        "name": "orchestra",
+        "trans": ["(大型的)管弦乐队"],
+        "usphone": "/s:kastra/",
+        "ukphone": "/s:kastra/",
+        "type": "n."
+    },
+    {
+        "name": "warning",
+        "trans": ["警告,警示"],
+        "usphone": "/wo:nm/",
+        "ukphone": "/wo:nm/",
+        "type": "n."
+    },
+    {
+        "name": "community",
+        "trans": ["社区"],
+        "usphone": "/ko'mjumetz/",
+        "ukphone": "/ko'mjumetz/",
+        "type": "n."
+    },
+    {
+        "name": "alarm",
+        "trans": ["警报器"],
+        "usphone": "/e'la:m/",
+        "ukphone": "/e'la:m/",
+        "type": "n."
+    },
+    {
+        "name": "increase",
+        "trans": ["增加;增大;提高"],
+        "usphone": "/m'kri:s/",
+        "ukphone": "/m'kri:s/",
+        "type": "v."
+    },
+    {
+        "name": "coast",
+        "trans": ["海岸"],
+        "usphone": "/kaust/",
+        "ukphone": "/kaust/",
+        "type": "n."
+    },
+    {
+        "name": "tsunami",
+        "trans": ["海啸"],
+        "usphone": "/tsu'na:mi/",
+        "ukphone": "/tsu'na:mi/",
+        "type": "n."
+    },
+    {
+        "name": "safety",
+        "trans": ["安全"],
+        "usphone": "/'scrfti/",
+        "ukphone": "/'scrfti/",
+        "type": "n."
+    },
+    {
+        "name": "Internet",
+        "trans": ["因特网"],
+        "usphone": "/nct/",
+        "ukphone": "/nct/",
+        "type": "n."
+    },
+    {
+        "name": "upcoming",
+        "trans": ["即将来临的,即将发生的"],
+        "usphone": "/'Ap,kAmr/",
+        "ukphone": "/'Ap,kAmr/",
+        "type": "adj."
+    },
+    {
+        "name": "operate",
+        "trans": ["使用,操作"],
+        "usphone": "/oparert/",
+        "ukphone": "/oparert/",
+        "type": "v."
+    },
+    {
+        "name": "drawback",
+        "trans": ["缺点,毛病"],
+        "usphone": "/dro:baek/",
+        "ukphone": "/dro:baek/",
+        "type": "n."
+    },
+    {
+        "name": "life-saving",
+        "trans": ["挽救生命的,保命的"],
+        "usphone": "/'larf,servm/",
+        "ukphone": "/'larf,servm/",
+        "type": "adj."
+    },
+    {
+        "name": "drone",
+        "trans": ["无人遥控飞机"],
+        "usphone": "/draun/",
+        "ukphone": "/draun/",
+        "type": "n."
+    },
+    {
+        "name": "iron",
+        "trans": ["铁"],
+        "usphone": "/aron/",
+        "ukphone": "/aron/",
+        "type": "n."
+    },
+    {
+        "name": "fashion",
+        "trans": ["时尚"],
+        "usphone": "/faefon/",
+        "ukphone": "/faefon/",
+        "type": "n."
+    },
+    {
+        "name": "slim",
+        "trans": ["苗条的,修长的"],
+        "usphone": "/slm/",
+        "ukphone": "/slm/",
+        "type": "adj."
+    },
+    {
+        "name": "bleed",
+        "trans": ["流血,出血"],
+        "usphone": "/bli:d/",
+        "ukphone": "/bli:d/",
+        "type": "v."
+    },
+    {
+        "name": "uncomfortable",
+        "trans": ["不舒服的"],
+        "usphone": "/An'kAmftabol/",
+        "ukphone": "/An'kAmftabol/",
+        "type": "adj."
+    },
+    {
+        "name": "shadow",
+        "trans": ["坏影响,阴影"],
+        "usphone": "/Saedau/",
+        "ukphone": "/Saedau/",
+        "type": "n."
+    },
+    {
+        "name": "herself",
+        "trans": ["她自己"],
+        "usphone": "/s'self/",
+        "ukphone": "/s'self/",
+        "type": "pron."
+    },
+    {
+        "name": "torch",
+        "trans": ["火把;火炬"],
+        "usphone": "/to:tf/",
+        "ukphone": "/to:tf/",
+        "type": "n."
+    },
+    {
+        "name": "university",
+        "trans": ["大学"],
+        "usphone": "/ju:na'v3:sati/",
+        "ukphone": "/ju:na'v3:sati/",
+        "type": "n."
+    },
+    {
+        "name": "courage",
+        "trans": ["勇气,胆量,勇敢"],
+        "usphone": "/'kArd3/",
+        "ukphone": "/'kArd3/",
+        "type": "n."
+    },
+    {
+        "name": "heroine",
+        "trans": ["女英雄"],
+        "usphone": "/herauin/",
+        "ukphone": "/herauin/",
+        "type": "n."
+    },
+    {
+        "name": "victim",
+        "trans": ["(恶劣情况的)受害者;(疾病的)患者"],
+        "usphone": "/'viktrm/",
+        "ukphone": "/'viktrm/",
+        "type": "n."
+    }
+]
