@@ -4132,6 +4132,16 @@ export const dictionaryResources: DictionaryResource[] = [
   //   length: 20,
   //   language: 'ja',
   // },
+
+   {
+    "id": "Newwaiyan8-1",
+    "name": "新外研八年级上册",
+    "description": "新外研八年级上册",
+    "category": "英语学习",
+    "url": "/dicts/Newwaiyan8-1",
+    "length": 1822,
+    "language": "en",
+  }
 ]
 
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({
